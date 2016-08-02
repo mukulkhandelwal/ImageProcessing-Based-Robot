@@ -9,5 +9,6 @@ This project based on the PID algorithm in which robot detects to go on a right 
 
 In this project we also shows how to implement Twiddle algorithm.
 
+You can find the problem statement in Pixelate document which is present in this repository as name pixelate.
 For any queries regarding code you can ask me any question .
 You can comment or You can mail me on -mukulsuperstarrock@gmail.com
